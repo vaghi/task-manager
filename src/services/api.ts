@@ -2,7 +2,7 @@ import axios from 'axios';
 import type { Task } from '../types';
 
 const API_URL = '/api/tasks';
-const USE_MOCK = true; // Set to false when backend is ready
+const USE_MOCK = false; // Set to false when backend is ready
 
 // Mock data for frontend-only development
 let mockTasks: Task[] = [
