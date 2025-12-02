@@ -1,11 +1,11 @@
 # Task Manager Frontend
 
-A pixel-perfect, responsive Task Manager frontend built with React, TypeScript, and Tailwind CSS.
+A responsive Task Manager frontend built with React, TypeScript, and Tailwind CSS.
 
 ## Prerequisites
 
 - **Node.js**: Version 20.19.0+ or 22.12.0+ is required (due to Vite 6+ requirements).
-- **npm**: Comes with Node.js.
+- **npm**
 
 ## Getting Started
 
